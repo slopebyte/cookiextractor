@@ -1,0 +1,32 @@
+{
+    "name": "cookiextractor",
+    "version": "1.0.0",
+    "description": "Middleware that extracts and parses cookies from Node.js Express.js server",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/slopebyte/cookiextractor.git"
+    },
+    "keywords": [
+      "cookiextractor",
+      "cookie",
+      "cookie-parser",
+      "express",
+      "express-middleware",
+      "http",
+      "web",
+      "session-management",
+      "nodejs",
+      "middleware"
+    ],
+    "author": "slopebyte",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/slopebyte/cookiextractor/issues"
+    },
+    "homepage": "https://github.com/slopebyte/cookiextractor#readme"
+  }
+  
